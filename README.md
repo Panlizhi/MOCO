@@ -9,8 +9,8 @@
 
 
 <img src="dataset.png" width="600" height="400" alt="teaser">
-<img src="dmoco_number.png" width="300" height="200" alt="teaser">
-<img src="moco_wordcloud_all.png" width="300" height="200" alt="teaser">
+<img src="moco_number.png" width="300" height="300" alt="teaser">
+<img src="moco_wordcloud_all.png" width="400" height="200" alt="teaser">
 
 
 | Dataset | Number of images | Number of captions |
