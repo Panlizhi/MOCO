@@ -1,5 +1,7 @@
 # </u>M</u>ilitary </u>O</u>bjects Dataset in Real </u>Co</u>mbat (MOCO)
-## -------a image captioning dataset for military
+<div style="text-align: right;">
+## ----An image captioning dataset for military
+</div>
 
 <p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>
 
