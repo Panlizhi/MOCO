@@ -10,8 +10,8 @@
 
 <img src="dataset.png" width="100%" height="500" alt="teaser">
 <div style="display: flex;">
-  <img src="moco_number.png" width="49%" height="300" alt="teaser">
-  <img src="moco_wordcloud_all.png" width="49%" height="200" alt="teaser">
+  <img src="moco_number.png" width="40%" height="300" alt="teaser">
+  <img src="moco_wordcloud_all.png" width="59%" height="300" alt="teaser">
 </div>
 
 
