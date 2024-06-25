@@ -8,9 +8,11 @@
 <p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>
 
 
-<img src="dataset.png" width="600" height="400" alt="teaser">
-<img src="moco_number.png" width="500" height="300" alt="teaser">
-<img src="moco_wordcloud_all.png" width="400" height="200" alt="teaser">
+<img src="dataset.png" width="100%" height="600" alt="teaser">
+<div style="display: flex;">
+  <img src="moco_number.png" width="50%" height="300" alt="teaser">
+  <img src="moco_wordcloud_all.png" width="50%" height="200" alt="teaser">
+</div>
 
 
 | Dataset | Number of images | Number of captions |
