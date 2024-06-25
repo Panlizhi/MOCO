@@ -44,5 +44,5 @@ If you agree to comply with the MIT License, please proceed with using the datas
 
 # Citation
 If you find the data presented herein useful for your research, please consider citing our article：
-**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**(http://panlizhi.github.io/files/MAE-MilitIC.pdf)
+[**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**](http://panlizhi.github.io/files/MAE-MilitIC.pdf)
  
