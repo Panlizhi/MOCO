@@ -29,7 +29,7 @@ Google Drive link
 ```
 https://drive.google.com/drive/folders/1IODxmem_PFbfwem_zVxY9WprTYWuYvXo?usp=sharing
 ```
-Baidu Netdisk link:
+Baidu Netdisk link (Valid for 7 days):
 ```
 https://pan.baidu.com/s/1nWajm27cfUpYMT1gpBAbew
 password: rvmc
