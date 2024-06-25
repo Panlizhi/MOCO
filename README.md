@@ -9,10 +9,8 @@
 
 
 <img src="dataset.png" width="100%" height="500" alt="teaser">
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
-  <img src="moco_number.png" width="40%" height="300" alt="teaser" style="margin-right: 20px;">
-  <img src="moco_wordcloud_all.png" width="50%" height="290" alt="teaser" >
-</div>
+<img src="statistics.png" width="100%" height="400" alt="teaser">
+
 
 | Dataset | Number of images | Number of captions |
 |---------|------------------|--------------------|
