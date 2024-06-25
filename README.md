@@ -1,34 +1,39 @@
 # **M**ilitary **O**bjects Dataset in Real **Co**mbat (MOCO)
 
 
-<p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a>, </p>
+<p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>
 
 <p align="center">School of Mechatronical Engineering<br>Beijing Institute of Technology</p>
 
 <p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>
 
-![teaser](dataset.tif)
-![teaser](dmoco_number.tif)
-![teaser](moco_wordcloud_all.png)
 
-| Dataset  | Number of images | Number of captions |
-|：----------|：----------|：----------|
-| Train   | 7192     | 35,960   |
-| Test   | 257      | 1,285    |
+<img src="dataset.png" width="600" height="400" alt="teaser">
+<img src="dmoco_number.png" width="300" height="200" alt="teaser">
+<img src="moco_wordcloud_all.png" width="300" height="200" alt="teaser">
+
+
+| Dataset | Number of images | Number of captions |
+|---------|------------------|--------------------|
+| Train   | 7192             | 35,960             |
+| Test    | 257              | 1,285              |
 
 # Abstract
 Our work provided the Military Objects In Real Combat (MOCO) dataset, which includes 7461 images with 33705
-captions, and has the advantage of oering a rich set of captions for real military combat scenarios. This dataset is
+captions, and has the advantage of offering a rich set of captions for real military combat scenarios. This dataset is
 particularly beneficial for the research on military image captioning, as it provides a large and diverse collection of
 images accompanied by detailed captions. The open access nature of the MOCO dataset also ensures that it can
 be widely utilized by the research community, fostering innovation and collaboration in the field of military image
 analysis.
 # Download
+Google Drive link
 ```
-Google Drive link: [MOCO](https://drive.google.com/drive/folders/1IODxmem_PFbfwem_zVxY9WprTYWuYvXo?usp=sharing)
+https://drive.google.com/drive/folders/1IODxmem_PFbfwem_zVxY9WprTYWuYvXo?usp=sharing
 ```
+Baidu Netdisk link:
 ```
-Baidu Netdisk link: [MOCO](https://pan.baidu.com/s/1nWajm27cfUpYMT1gpBAbew) password: rvmc
+https://pan.baidu.com/s/1nWajm27cfUpYMT1gpBAbew
+password: rvmc
 ```
 If the link becomes invalid, please do not hesitate to contact me for an update.
 
