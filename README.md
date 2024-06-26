@@ -18,7 +18,7 @@
 | Test    | 257              | 1,285              |
 
 # Abstract
-Our work provided the Military Objects In Real Combat (MOCO) dataset, which includes 7461 images with 33705
+Our work provided the Military Objects In Real Combat (MOCO) dataset, which includes 7449 images with 37245
 captions, and has the advantage of offering a rich set of captions for real military combat scenarios. This dataset is
 particularly beneficial for the research on military image captioning, as it provides a large and diverse collection of
 images accompanied by detailed captions. The open access nature of the MOCO dataset also ensures that it can
