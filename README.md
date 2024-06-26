@@ -25,14 +25,13 @@ images accompanied by detailed captions. The open access nature of the MOCO data
 be widely utilized by the research community, fostering innovation and collaboration in the field of military image
 analysis.
 # Download
-Google Drive link
+Google Drive link：
 ```
 https://drive.google.com/drive/folders/1IODxmem_PFbfwem_zVxY9WprTYWuYvXo?usp=sharing
 ```
-Baidu Netdisk link (Valid for 7 days):
+Baidu Netdisk link (password: rvmc):
 ```
 https://pan.baidu.com/s/1nWajm27cfUpYMT1gpBAbew
-password: rvmc
 ```
 If the link becomes invalid, please do not hesitate to contact me for an update.
 
