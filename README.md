@@ -8,6 +8,11 @@
 <p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>
 -->
 
+
+<p align="center">Not disclosed based on double-blind reviewing policy</p>
+
+
+
 <img src="dataset.png" width="100%" height="500" alt="teaser">
 <img src="statistics.png" width="100%" height="300" alt="teaser">
 
@@ -43,5 +48,5 @@ If you agree to comply with the MIT License, please proceed with using the datas
 
 # Citation
 If you find the data presented herein useful for your research, please consider citing our article：
-[**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**](http://panlizhi.github.io/files/MAE-MilitIC.pdf)
- 
+<!-- [**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**](http://panlizhi.github.io/files/MAE-MilitIC.pdf)-->
+ [**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**]
