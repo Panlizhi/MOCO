@@ -1,12 +1,12 @@
 # An image captioning dataset for military:  Military Objects Dataset in Real Combat (MOCO)
 
-
+<!-- 
 <p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>
 
 <p align="center">School of Mechatronical Engineering<br>Beijing Institute of Technology</p>
 
 <p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>
-
+-->
 
 <img src="dataset.png" width="100%" height="500" alt="teaser">
 <img src="statistics.png" width="100%" height="300" alt="teaser">
