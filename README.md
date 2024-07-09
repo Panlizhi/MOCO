@@ -5,10 +5,10 @@
 
 <p align="center">School of Mechatronical Engineering<br>Beijing Institute of Technology</p>
 
-<p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>
+<p align="center"><a href=" ">[Paper:Military Image Captioning for Low-altitude UAV or UGV Perspectives]</a></p>
+<!--<p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>-->
 
-
-
+**Updated on July 1, 2024, the new version is waiting to be released.
 <!-- <p align="center">Author : Not disclosed based on double-blind reviewing policy</p>-->
 
 
@@ -47,6 +47,6 @@ Please ensure you have read and understood the terms of the license before using
 If you agree to comply with the MIT License, please proceed with using the dataset.
 
 # Citation
-If you find the data presented herein useful for your research, please consider citing our article：**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**
+If you find the data presented herein useful for your research, please consider citing our article：**Military Image Captioning for Low-altitude UAV or UGV Perspectives**
 <!-- [**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**](http://panlizhi.github.io/files/MAE-MilitIC.pdf)-->
 
