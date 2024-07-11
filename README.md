@@ -13,7 +13,7 @@
 
 
 
-<img src="dataset.png" width="100%" height="500" alt="teaser">
+<img src="dataset.png" width="100%" height="1500" alt="teaser">
 <img src="statistics.png" width="100%" height="300" alt="teaser">
 
 
