@@ -30,15 +30,19 @@ images accompanied by detailed captions. The open access nature of the MOCO data
 be widely utilized by the research community, fostering innovation and collaboration in the field of military image
 analysis.
 # Download
-Google Drive link：
+
+Out of ethical review requirements and to prevent the misuse of technology, this data can be accessed through application. 
+Please be aware that the research purposes of the applicant will be rigorously reviewed to ensure that this data is not used for any improper purposes.
+
+<!-- Google Drive link：
 ```
-https://drive.google.com/drive/folders/1IODxmem_PFbfwem_zVxY9WprTYWuYvXo?usp=sharing
+https://drive.google.com/drive/folders/ 
 ```
 Baidu Netdisk link (password: rvmc):
 ```
-https://pan.baidu.com/s/1nWajm27cfUpYMT1gpBAbew
+https://pan.baidu.com/s/
 ```
-If the link becomes invalid, please do not hesitate to contact me for an update.
+If the link becomes invalid, please do not hesitate to contact me for an update.-->
 
 # License
 This dataset is licensed under the MIT License Copyright (c) 2024 Panlizhi.
