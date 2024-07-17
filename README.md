@@ -34,7 +34,7 @@ analysis.
 Out of ethical review requirements and to prevent the misuse of technology, this data can be accessed through application. 
 Please be aware that the research purposes of the applicant will be rigorously reviewed to ensure that this data is not used for any improper purposes.
 
-You can fill out the [data usage application](https://github.com/Panlizhi/MOCO/data_application.docx) form and send it to the email [*panlz_bit@hotmail.com*].
+You can fill out the [data usage application](https://github.com/Panlizhi/MOCO/blob/main/data_application.docx) form and send it to the email [*panlz_bit@hotmail.com*].
 
 
 
