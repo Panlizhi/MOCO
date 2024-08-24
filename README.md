@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>
 
-<p align="center">School of Mechatronical Engineering<br>Beijing Institute of Technology</p>
+<p align="center">School of Mechatronical Engineering, Beijing Institute of Technology</p>
 
 <p align="center"><a href="https://doi.org/10.3390/drones8090421">[Paper:MAE-MilitIC]</a></p>
 
