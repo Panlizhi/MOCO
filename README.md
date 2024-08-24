@@ -1,13 +1,12 @@
 # An image captioning dataset for military:  Military Objects Dataset in Real Combat (MOCO)(Version 3.0)
 
 
-<p align="center">Lizhi Pan</a>, Chengtian Song</a> </p>
-<!--<p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>-->
+
+<p align="center"><a href="https://panlizhi.github.io">Lizhi Pan</a>, <a href="https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/721aa3c324ec4a20912425153613e881.htm">Chengtian Song</a> </p>
 
 <p align="center">School of Mechatronical Engineering<br>Beijing Institute of Technology</p>
 
-<p align="center"><a href=" ">[Paper:Military Image Captioning for Low-altitude UAV or UGV Perspectives]</a></p>
-<!--<p align="center"><a href="http://panlizhi.github.io/files/MAE-MilitIC.pdf">[Paper:MAE-MilitIC]</a></p>-->
+<p align="center"><a href="https://doi.org/10.3390/drones8090421">[Paper:MAE-MilitIC]</a></p>
 
 **Updated on July 1, 2024, the new version (Version 4.0) is waiting to be released.
 <!-- <p align="center">Author : Not disclosed based on double-blind reviewing policy</p>-->
@@ -56,6 +55,6 @@ Please ensure you have read and understood the terms of the license before using
 If you agree to comply with the MIT License, please proceed with using the dataset.
 
 # Citation
-If you find the data presented herein useful for your research, please consider citing our article：**Military Image Captioning for Low-altitude UAV or UGV Perspectives**
+If you find the data presented herein useful for your research, please consider citing our article：[**Military Image Captioning for Low-altitude UAV or UGV Perspectives**](https://doi.org/10.3390/drones8090421)
 <!-- [**MAE-MilitIC: Map Augmentation Embedding to Enhance Semantics for Military Image Captioning**](http://panlizhi.github.io/files/MAE-MilitIC.pdf)-->
 
